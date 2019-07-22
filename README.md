@@ -52,8 +52,8 @@ There are no known bugs.
 Megan Schulte: megan.schulte.pdx@gmail.com
 Brooke Kullberg: brookekullberg@gmail.com
 Ashley Ancheta: ashleyjancheta@gmail.com
-Stuart McKay: ashleyjancheta@gmail.com
-Reese Lee: ashleyjancheta@gmail.com
+Stuart McKay: stuart51994@gmail.com
+Reese Lee: reese.lee.cy@gmail.com
  
 
 Copyright (c) 2019 **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Sculte, AJ Ancheta_**
