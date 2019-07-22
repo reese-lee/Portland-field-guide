@@ -1,4 +1,4 @@
-# Portland Field Guide
+# [Portland Field Guide](https://portland-field-guide.firebaseapp.com/)
 ## By: **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Sculte, AJ Ancheta_**
 
 #### _JavaScript, Week 5 Independent Project, *06.27.2019*_
@@ -8,7 +8,7 @@
 
 
 ## Description
-_This is a web application that allows users to search local native and invasive plants in Portland, OR. This app was designed to be used on a phone._
+_This is a web application that allows users to search local native and invasive plants in Portland, OR. This app was designed to be mobile-friendly--for best results, please open the link above on your cellphone._
 
 ## Technologies Used
 
@@ -17,6 +17,9 @@ _This is a web application that allows users to search local native and invasive
   * Firebase Database 3.9.0
 
 ## Setup Instructions for accessing the Application
+
+#### To access the program immediately
+* Click [here](https://portland-field-guide.firebaseapp.com/)
 
 #### To view project file
 * Clone this GitHub repository "https://github.com/meganschultepdx/Portland-field-guide.git" to your desktop. 
